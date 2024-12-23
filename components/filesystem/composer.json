@@ -1,0 +1,8 @@
+{
+    "require": {
+        "illuminate/config": "^10.0",
+        "illuminate/filesystem": "^10.0",
+        "illuminate/container": "^10.0",
+        "league/flysystem": "^3.1"
+    }
+}

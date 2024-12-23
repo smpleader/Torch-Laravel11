@@ -1,0 +1,9 @@
+{
+    "require": {
+        "filp/whoops": "2.14.*",
+        "illuminate/log": "^10.0",
+        "slim/psr7": "1.6.*",
+        "slim/slim": "4.*",
+        "zeuxisoo/slim-whoops": "0.7.*"
+    }
+}
