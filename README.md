@@ -53,12 +53,6 @@ localhost:8888/components/{packageName}
 * [Validation](https://github.com/smpleader/torch-laravel11/tree/master/components/validation)
 
 
-## Other Packages
-
-### Done
-
-* [LaravelCollective/html](https://github.com/smpleader/torch-laravel11/tree/master/other-components/html)
-
 ## Contributing
 
 A few important notes:
